@@ -1,6 +1,7 @@
 ## Create an array out of a string
 
 Please add the missing code. Also please add comments that explain the steps.
+Hint: `line.split()`
 
 ```
 function arrayToString(){
