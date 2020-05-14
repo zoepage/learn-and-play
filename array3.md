@@ -24,3 +24,5 @@ console.log(2dArray[2][0]);
 [[2, 4],[6, 8],[10, 12]]
 
 2. Write a function that adds both values in the deeper array and reduce the array to one level.
+
+3. What are `jagged arrays`?
